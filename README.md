@@ -1,0 +1,1 @@
+# Javascript-Hata-Y-netimi
