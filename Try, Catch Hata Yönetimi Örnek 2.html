@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Try, Catch Hata Yönetimi Örnek 2</title>
+</head>
+<body>
+    <script>
+let x = prompt("20'den küçük bir sayı giriniz", "");
+try{
+if(x>20){
+throw "Hata1";
+}
+else if(isNaN(x)){
+throw "Hata2";
+}
+}
+catch(error){
+if(error == "Hata1"){
+alert("Hatalı giriş! Bu sayı değeri 20'den büyük")
+}
+if(error == "Hata2"){
+alert("Hatalı Giriş! Bu bir sayı değil")
+}
+}
+    </script>
+</body>
+</html>
