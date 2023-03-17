@@ -1,6 +1,6 @@
 # Google-1998 frontend
 
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+![alt text](https://github.com/mfurkan60/Javascript-Hata-Y-netimi/blob/main/google-1998-screenshot.png?raw=true)
 
  
 ## Contributing
